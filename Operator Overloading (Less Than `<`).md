@@ -16,7 +16,7 @@ To write a Python program that demonstrates **operator overloading** by overload
      - If `self.a < o.a`, return `"ob1 is less than ob2"`
      - Else, return `"ob2 is less than ob1"`
 
-3. **Create Objects**:
+3. **Create Objects**: 
    - Instantiate two objects `ob1` and `ob2` with values.
 
 4. **Use `<` Operator**:
