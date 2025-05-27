@@ -50,6 +50,7 @@ cir=Circle()#object created for the class 'Rectangle'
 #object created for the class 'Circle'
 print("Area of a rectangle:", rec.calculate_area()) #call to 'calculate_area' method defined inside the class 'Rectangle'
 print("Area of a circle:", cir.calculate_area()) #call to 'calculate_area' method defined inside the class 'Circle'.
+
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/7b2ffd74-5cf9-4020-828a-e8a8f8a0cfc9)
